@@ -1,0 +1,40 @@
+/*Estilo do site Anna Bella*/
+body {
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 16px;
+	background: url(Imagens/fundo.png) #d2d2c1;
+}
+
+a {
+	font-weight: 900;
+	text-decoration: none;
+	color: #4b566a;
+	padding: 10px;
+	}
+
+h1 {
+	color: #828271;
+	font-size: 1.2em;
+}
+#principal {
+	width: 900px;
+	}
+
+#menu {
+	background-color: #E5EFBD;
+	color: #c5c5b2;
+	padding: 20px;
+	font-weight: bold;
+	}
+#conteudo {
+	background: #e8e8d9;
+	padding: 15px;
+	}
+
+#rodape {
+	text-align: center;
+}
+
+.borda_imagem {
+	border: 10px solid #ceceae;
+}
